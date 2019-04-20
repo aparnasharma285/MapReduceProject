@@ -1,0 +1,5 @@
+{"totalColumns":1,"row":"1","families":{"cf":[{"qualifier":"count","vlen":4,"tag":[],"timestamp":9223372036854775807}]}}
+{"totalColumns":1,"row":"2","families":{"cf":[{"qualifier":"count","vlen":4,"tag":[],"timestamp":9223372036854775807}]}}
+{"totalColumns":1,"row":"3","families":{"cf":[{"qualifier":"count","vlen":4,"tag":[],"timestamp":9223372036854775807}]}}
+{"totalColumns":1,"row":"4","families":{"cf":[{"qualifier":"count","vlen":4,"tag":[],"timestamp":9223372036854775807}]}}
+{"totalColumns":1,"row":"5","families":{"cf":[{"qualifier":"count","vlen":4,"tag":[],"timestamp":9223372036854775807}]}}

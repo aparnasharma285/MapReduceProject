@@ -1,0 +1,11 @@
+[{
+  "Classification": "hbase-site",
+  "Properties": {
+    "hbase.rootdir": "s3://justreduceit/hbase2/data"}
+},
+{
+  "Classification": "hbase",
+  "Properties": {
+  "hbase.emr.storageMode":"s3"
+  }
+}]
