@@ -15,6 +15,3 @@ Aim : We are given 2 files users.csv and group-edges.csv. We will find out the s
       To find the suggestions, we will first get the list of friends of a user and then get the list of groups every friend is enrolled in. These list of groups will be then used as suggestions by removing all the groups in which the user is already enrolled and which have been already suggested.
 
 Note : Since the dataset we are using is too small, a special Map reduce job has been written which will extend the data with new userIds and groups.
-
-
-For more details please visit this repository's wiki page.
